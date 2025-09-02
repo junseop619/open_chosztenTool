@@ -1,0 +1,7 @@
+set_target guide
+
+dns : domain name ex. set_target naver.com
+header : domain name or URL
+subdomain : domain name
+syn : IP
+whois : domain name

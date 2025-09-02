@@ -1,0 +1,5 @@
+requests
+dnspython
+colorama
+scapy
+python-whois
